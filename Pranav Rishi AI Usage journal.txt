@@ -1,0 +1,12 @@
+AI usage journal 
+Pranav Rishi
+prishi@terpmail.umd.edu
+Section 0201
+
+Week 1
+This week we were assigned 30 python exercises and I will not lie, I did use AI to help me out at times.
+The LLM I used was Chat GPT. While completing this assignment I focused heavily on completing the assignment with my own knowledge 
+and I used the core concepts sheet as well to help me out. I mainly used AI to check my answers to make sure my solution was on track
+or correct. I would try to attempt the coding problem then copy my attempt into chat gpt and ask if it was correct. Additionally, some problems
+such as problem 14 and 15, I was really stuck on and asked chat gpt for the answer. However, instead of just taking the answer I tried to learn how
+the LLM solved so, I can improve my knowledge on the topic.
