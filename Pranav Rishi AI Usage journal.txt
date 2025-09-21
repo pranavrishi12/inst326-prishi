@@ -10,3 +10,7 @@ and I used the core concepts sheet as well to help me out. I mainly used AI to c
 or correct. I would try to attempt the coding problem then copy my attempt into chat gpt and ask if it was correct. Additionally, some problems
 such as problem 14 and 15, I was really stuck on and asked chat gpt for the answer. However, instead of just taking the answer I tried to learn how
 the LLM solved so, I can improve my knowledge on the topic.
+
+Week 2
+This week, me and my group used AI to help brainstorm what we are building with are project. Chat gpt give us a list of ideas and we expanded on the broad topic it
+provided and used it to help generate ideas for the project in general. I also used AI for the week 2 exercises. I primarly used AI to help me make sure my solution is correct, however I felt stuck on some problems so I asked for the answer sometimes but I reread the code so I can understand how it got the answer.
