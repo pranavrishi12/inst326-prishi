@@ -14,3 +14,7 @@ the LLM solved so, I can improve my knowledge on the topic.
 Week 2
 This week, me and my group used AI to help brainstorm what we are building with are project. Chat gpt give us a list of ideas and we expanded on the broad topic it
 provided and used it to help generate ideas for the project in general. I also used AI for the week 2 exercises. I primarly used AI to help me make sure my solution is correct, however I felt stuck on some problems so I asked for the answer sometimes but I reread the code so I can understand how it got the answer.
+
+Week 3
+This week, I used Chat GPT as tool to help me with the week 3 exercises. For exercises that I was stuck on I would ask the LLM for help and give me a step by step 
+explanation to help me understand the code. Other than that I would use AI to make sure my answers are correct or on the right track.
