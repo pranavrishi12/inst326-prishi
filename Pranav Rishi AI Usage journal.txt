@@ -18,3 +18,7 @@ provided and used it to help generate ideas for the project in general. I also u
 Week 3
 This week, I used Chat GPT as tool to help me with the week 3 exercises. For exercises that I was stuck on I would ask the LLM for help and give me a step by step 
 explanation to help me understand the code. Other than that I would use AI to make sure my answers are correct or on the right track.
+
+Week 4
+This week, similarly to the last couple of weeks I used AI to help me complete these exercises. I found these exercises a lot easier as I was familar with classes as 
+I learned them in Java however some exercises like exercise 19 I used AI to solve it and it read the code to understand it. Though overall, I just used AI to check to make sure my code was correct. During discussion, me and my team also used AI to help brainstorm some function types but overall we tried to limit are AI usage for that part.
