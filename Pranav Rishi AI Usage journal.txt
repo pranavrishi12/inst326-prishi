@@ -16,9 +16,12 @@ This week, me and my group used AI to help brainstorm what we are building with 
 provided and used it to help generate ideas for the project in general. I also used AI for the week 2 exercises. I primarly used AI to help me make sure my solution is correct, however I felt stuck on some problems so I asked for the answer sometimes but I reread the code so I can understand how it got the answer.
 
 Week 3
-This week, I used Chat GPT as tool to help me with the week 3 exercises. For exercises that I was stuck on I would ask the LLM for help and give me a step by step 
+This week, I used Chat GPT as tool to help me with the week  3 exercises. For exercises that I was stuck on I would ask the LLM for help and give me a step by step 
 explanation to help me understand the code. Other than that I would use AI to make sure my answers are correct or on the right track.
 
 Week 4
 This week, similarly to the last couple of weeks I used AI to help me complete these exercises. I found these exercises a lot easier as I was familar with classes as 
 I learned them in Java however some exercises like exercise 19 I used AI to solve it and it read the code to understand it. Though overall, I just used AI to check to make sure my code was correct. During discussion, me and my team also used AI to help brainstorm some function types but overall we tried to limit are AI usage for that part.
+
+Week 5
+This week me and my group members used AI in discussion to help with project 1. For the documentation portion of the functionss, it was pretty simple and we did not need much AI help, however, for the developing portion of the functions we needed some AI assitance or atleast I did to help me gain a better understanding of how to structure the code. I also like previous weeks used AI to help me with exercises I was stuck on, and I used it to help check my work.
