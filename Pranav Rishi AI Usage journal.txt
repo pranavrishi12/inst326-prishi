@@ -25,4 +25,5 @@ I learned them in Java however some exercises like exercise 19 I used AI to solv
 
 Week 5
 This week me and my group members used AI in discussion to help with project 1. For the documentation portion of the functionss, 
-it was pretty simple and we did not need much AI help, however, for the developing portion of the functions we needed some AI assitance or atleast I did to help me gain a better understanding of how to structure the code. I also like previous weeks used AI to help me with exercises I was stuck on, and I used it to help check my work.
+it was pretty simple and we did not need much AI help, however, for the developing portion of the functions we needed some AI assitance or atleast I did to help me gain a better understanding of how to structure the code. 
+I also like previous weeks used AI to help me with exercises I was stuck on, and I used it to help check my work.
