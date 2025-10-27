@@ -27,3 +27,6 @@ Week 5
 This week me and my group members used AI in discussion to help with project 1. For the documentation portion of the functionss, 
 it was pretty simple and we did not need much AI help, however, for the developing portion of the functions we needed some AI assitance or atleast I did to help me gain a better understanding of how to structure the code. 
 I also like previous weeks used AI to help me with exercises I was stuck on, and I used it to help check my work.
+
+Week 6
+This week similarly to every other week, I used AI to help make sure I am on the right track. If I am having trouble with certain exercises, I ask it to guide me and if I am stuck on some I just try to use AI to help me, by giving me like a step by step on how it got the answer. Additionally, me and my group have been using AI to help brainstorm ideas for Project 2. 
