@@ -46,3 +46,6 @@ Week 10
 This week me and my group is using AI to help us with how we are going to structure our code for project 3. Compared to other projects we have done so far, project 3 seems
 like the most work hence why we are using a little more AI than previously. Additionally, just as previous weeks I am using for exercises to help me understand the code and 
 to help me ensure that the code is correct. 
+
+Week 12
+This week me and my group used AI to help brainstorm ideas in order to deliver the final project. As we are wrapping everything up, we are making sure to include everything that we need and we use AI as a criteria checker in order to make sure we have included everything within our project. Another than that AI was not really used as there were no other assignments.
