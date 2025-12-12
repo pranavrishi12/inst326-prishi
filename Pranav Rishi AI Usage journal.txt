@@ -48,4 +48,8 @@ like the most work hence why we are using a little more AI than previously. Addi
 to help me ensure that the code is correct. 
 
 Week 12
-This week me and my group used AI to help brainstorm ideas in order to deliver the final project. As we are wrapping everything up, we are making sure to include everything that we need and we use AI as a criteria checker in order to make sure we have included everything within our project. Another than that AI was not really used as there were no other assignments.
+This week me and my group used AI to help brainstorm ideas in order to deliver the final project. As we are wrapping everything up, we are making sure to include everything 
+that we need and we use AI as a criteria checker in order to make sure we have included everything within our project. Another than that AI was not really used as there were no other assignments.
+
+Week 13
+For this last week, me and my team really did no use AI as we were just finalizing and presenting our project. AI was used in earlier portions of project 4 to help us fix any code that did not work with another and to fix any errors within the code that stopped it from running on google colab.
